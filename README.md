@@ -39,8 +39,7 @@ challenge-amigo-secreto_pt-main/
 ## Capturas de Tela
 Seguem as imagens da aplicação:
 
-1. Página inicial:
-!(assets/print00.jpg)
+1. ![Página inicial](assets/print00.jpg)
 
 2. Inserção dos nomes para sorteio:
 !(assets/print01.jpg)
