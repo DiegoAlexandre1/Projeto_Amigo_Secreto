@@ -27,7 +27,7 @@ function atualizarLista() {
     listaDeAmigos.innerHTML = "";
 
     for (let amigo of amigos){
-        const item = document.createElement ("amigo");
+        const item = document.createElement ("li");
         item.textContent = amigo;
         listaDeAmigos.appendChild(item);
     }
