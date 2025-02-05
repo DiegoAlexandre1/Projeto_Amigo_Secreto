@@ -37,7 +37,16 @@ challenge-amigo-secreto_pt-main/
 3. Abra o arquivo `index.html` no navegador.
 
 ## Capturas de Tela
-Adicione imagens aqui mostrando o funcionamento do projeto.
+Seguem as imagens da aplicação:
+
+1. Página inicial:
+!(assets/print00.jpg)
+
+2. Inserção dos nomes para sorteio:
+!(assets/print01.jpg)
+
+3. Resultado do sorteio:
+!(assets/print02.jpg)
 
 ## Melhorias Futuras
 - Implementação de sorteio sem repetição de pares
